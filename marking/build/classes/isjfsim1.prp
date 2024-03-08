@@ -1,0 +1,4 @@
+scheduler=IdealSJFScheduler
+timeLimit=15000
+timeQuantum=0
+initialBurstEstimate=0
